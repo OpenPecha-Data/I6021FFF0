@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W4PD1211
   title: ཁྲིད་ཡིག་ཡེ་ཤེས་བླ་མ་མཆན་ཅན།
   author: ''
-  volumes: {}
+  volumes:
+    b13d4c450652488096d50d4ec2cc7a07:
+      image_group_id: I4PD1446
+      title: ''
+      volume_number: 1
+      total_pages: 294
